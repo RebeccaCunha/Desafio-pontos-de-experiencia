@@ -17,8 +17,8 @@ function calcula (numero1,numero2){
 }
 
 let resultadoCalculo = calcula(41,38)
-let resutado = resultadoCalculo * formula;
+let resultado = resultadoCalculo * formula;
 
-console.log(`Você ganhou ${resutado} XP!`);
+console.log(`Você ganhou ${resultado} XP!`);
 // Imprime a quantidade de XP ganho
 // print("Voce ganhou " + xpGanho + " XP!");
